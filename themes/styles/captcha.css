@@ -1,0 +1,7 @@
+.captcha .detail { position: relative; display: table; padding: 5px; background: #fff; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; }
+.captcha .detail .img { height: 30px; padding: 0 5px; background: #fff; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; text-align: left; margin-bottom: 5px; overflow: hidden; }
+.captcha .detail .img img { border: 0 none; min-height: 30px; max-width: 100px; display: block; }
+.captcha .detail .img .glyphicon-refresh { cursor: pointer; position: absolute; right: 15px; top: 13px; }
+.captcha .detail .inp { padding: 5px; background: #FFDC73; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; }
+.captcha .detail .inp input { width: 100px; border: 1px solid #ccc; text-align: center; padding: 2px 5px; font-size: 14px; }
+.captcha .detail .inp label { font-size: 11px; display: block; color: #9D0E00; }

@@ -1,1 +1,2 @@
 **Ene bol Codeigniter library baidlaar bichigsen Captcha image uusgeh bas shalgah PHP codiin san yum**
+**Views/login.php file bol zovhon jishee bichiglel todii zuil uchir ooriinhoo projectod zohih codiig huulj taviad tohiruulan ashiglaarai**
